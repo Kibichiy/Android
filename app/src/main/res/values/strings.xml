@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppBarActivity</string>
+    <string name="toolbar_text">Farming App</string>
+    <string name="content_text">Content goes here!</string>
+</resources>
